@@ -1,0 +1,111 @@
+# ---> C++
+# Compiled Object files
+*.slo
+*.lo
+*.o
+__pycache__
+
+#IDA
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dylib
+
+#python build file
+*.pyc
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+
+# Executables
+*.out
+*.app
+
+# Not Need Folder And Files
+*.\ipch
+*.tmp
+*.tlog
+*.idb
+*.lastbuildstate
+*.CppClean.log
+*.tlb
+*.tds
+*.map
+*.sdf
+*.pdb
+*.ilk
+*.exp
+*.opensdf
+*.aps
+.vs
+
+#update
+update.bat
+
+#python
+*.pyc
+__pycache__
+
+#c++ obj
+bin
+*.tlog
+*.log
+*.obj
+.vs
+Debug
+Release
+obj
+x64
+*.pdb
+ARM
+EasyHook.2.7.7097
+
+#third party
+P2P_UDP/
+P2pChat/
+GameNetworkingSockets/
+Udp_P2P/
+python-nat-hole-punching/
+
+#QT
+.vs
+debug
+release
+.qmake.stash
+
+#pic
+*.yuv
+*.bmp
+*.rgb
+*.jpg
+
+#WDKdebug
+Win8 Debug
+Win8Debug
+Win10 Debug
+Win10 Release
+Win10Debug
+Win10Release
+x64
+
+*.h264
+
+#APKtest
+C/Segment_file/Segment_file/Segment_file/android-studio-ide-193.6626763-windows.exe
+
+#linux
+*.o
+*.a
